@@ -13,7 +13,7 @@ Using information about
 * The slope of the peak exercise ST segment
 * Vessels colored by flourosopy
 * A blood disorder called thalassemia
-Make prediction heart disease
+## To make prediction heart disease
 - Exploring data and visualizing it
 - Try LogisticRegression(),KNeighborsClassifier(),RandomForest() in order to find the most suitable model for problem
 - Tuning hyperparameter by some ways
